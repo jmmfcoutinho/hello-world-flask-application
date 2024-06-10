@@ -20,6 +20,6 @@ A message saying `{"message":"Hello world"}` should appear if everything was don
 
 # Clould deployed app:
 
-This app is deployed on [fly.io](fly.io). It can be accessed using the following link:
+This app is deployed on [https://fly.io](https://fly.io). It can be accessed using the following link:
 
 Link: [https://hello-world-flask-application.fly.dev/](https://hello-world-flask-application.fly.dev/)
